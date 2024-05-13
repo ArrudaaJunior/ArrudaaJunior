@@ -1,4 +1,4 @@
-### Olá! Eu sou o Arruda Júnior 🖐🏽
+### Olá! Eu sou o Arruda Júnior <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
 
 ---
@@ -16,7 +16,7 @@ Contato:
 [![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arrudajunior/) [![G-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juniorarruda15@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arrudajunior15/)
 
-## Linguagens e Ferramentas que utilizo:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> Linguagens e Ferramentas que utilizo:
 
 <div style="display: inline-block; margin-top: 10px;">
     <img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" width="100">
@@ -34,7 +34,8 @@ Contato:
 
 </br>
 
-## Status do Github
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Status do Github
 
 
-![Arrudaa Junior GitHub stats](https://github-readme-stats.vercel.app/api?username=ArrudaaJunior&show_icons=true&theme=chartreuse-dark)        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arrudaajunior&compact)
+![Arrudaa Junior GitHub stats](https://github-readme-stats.vercel.app/api?username=ArrudaaJunior&show_icons=true&theme=chartreuse-dark) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=arrudaajunior&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
