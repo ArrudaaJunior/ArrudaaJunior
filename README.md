@@ -5,9 +5,9 @@
 
 <br>
 
-- 📖 Graduado em Redes de Computadores no IFCE.
-- 👨🏽‍💻 Estou trabalhando com Projetos PD&I no IFCE - Jaguaribe - Ce
-- 📚 Aprendendo graduamente as frameworks
+- 📖 Graduado em Redes de Computadores no IFCE;
+- 👨🏽‍💻 Estou trabalhando com Projetos PD&I no IFCE;
+- 📚 Aprendendo graduamente as frameworks.
 
 <br>
 
