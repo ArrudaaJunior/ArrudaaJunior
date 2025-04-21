@@ -8,7 +8,6 @@
 - 📖 Mestrando Profissional em Tecnologia Educacional - UFC Fortaleza;
 - 📖 Pós-graduando em Gestão de projetos - IFCE Jaguaribe;
 - 📖 Graduado em Redes de Computadores no IFCE;
-- 👨🏽‍💻 Estou trabalhando como Embaixador da Huawei Academy - Instituto Iracema;
 - 📚 Em contínuo processo de aprendizado.
 
 <br>
